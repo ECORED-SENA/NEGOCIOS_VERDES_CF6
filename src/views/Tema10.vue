@@ -119,7 +119,7 @@
           h3 Cuadro de Mando Integral
           p.mb-4 A continuación, se citan ejemplos de los principales indicadores de gestión contemplados para cada una de las cuatro perspectivas (perspectiva del personal, mejora continua de procesos, los clientes y la perspectiva financiera) del modelo CMI (Cuadro de Mando Integral), propuesta por Salgueiro (2001). 
           
-          a.boton.color-acento-contenido(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-contenido(:href="obtenerLink('/downloads/Cuadro_de_Mando_Integral.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 

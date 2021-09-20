@@ -197,4 +197,76 @@
 .tarjeta.color-acento-botones
   background-color: #F6F6F6 !important
 .boton.color-acento-contenido
-  background-color: #FFD947 !important     
+  background-color: #FFD947 !important    
+.boton.color-acento-botones
+  background-color: #529AD9    
+.boton.color-acento-botones:hover
+  background-color: #529AD9      
+
+.m-top
+  margin-top: -10em
+
+.yoyo
+  animation-name: yoyo
+  animation-duration: 4.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes yoyo
+  0%
+    transform: translatey(0px)    
+  50%
+    transform: translatey(-10px)
+  100%
+    transform: translatey(0px)    
+
+.card-row-color-1    
+  background-color: #ECEDCC
+  border-radius: 25px
+  border: 15px solid white 
+
+.card-row-color-2    
+  background-color: #DEE0A7
+  border-radius: 25px
+  border: 15px solid white  
+
+.card-row-color-3    
+  background-color: lighten(#529AD9,35%) !important 
+  border-radius: 25px
+  border: 15px solid white 
+
+.card-row-color-4   
+  background-color: lighten(#529AD9,30%) !important 
+  border-radius: 25px
+  border: 15px solid white    
+
+.bloque-texto-a.color-secundario::before
+  background-color:#529AD9 !important  
+.bloque-texto-a.color-secundario    
+  background-color:#E9E9E9 !important    
+
+.spin  
+  animation-name: spin
+  animation-duration: 10.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes spin
+  0%
+    transform: rotate(0deg) 
+    transform: translatey(0px)
+    transform: translatex(0px)           
+  25%
+    transform: rotate(1deg)
+  50%
+    transform: rotate(0deg)
+    transform: translatex(16px)           
+  60%
+    transform: translatey(16px)    
+  75%
+    transform: rotate(1deg)
+    transform: translatex(-16px)   
+  100%
+    transform: rotate(0deg)
+    transform: translatey(0px)
+    transform: translatex(0px)       

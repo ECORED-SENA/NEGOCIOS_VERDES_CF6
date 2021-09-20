@@ -100,7 +100,7 @@
       h2 4.2 Método de observación             
     p.mt-5(data-aos="fade-down") Durante la recopilación de información, las personas que pertenecen en la muestra o grupo objetivo, presentan una serie de comportamientos y formas de comunicación a través de su lenguaje no verbal. La clave de esta técnica está en tener la capacidad para reconocer y registrar sistemáticamente estos comportamientos de los participantes en el entorno de la investigación sin comunicarse directamente con ellos; solo observándolos y tomando atenta nota de sus comportamientos reales, para así poder descubrir las motivaciones, demostradas a través de sus diferentes comportamientos, más no en sus opiniones (Dos Santos, 2017). 
 
-    .tarjeta.color-primario.p-3.mt-5(data-aos="fade-right")
+    .tarjeta.color-secundario.p-3.mt-5(data-aos="fade-right")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/ilustraciones/img22.svg")
@@ -110,7 +110,7 @@
               h3.mb-1 Método de observación
               p.text-small La siguiente infografía presenta su procedimiento y tipologías.
             .col-sm-auto
-              a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Metodo_Observacion.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download  
 
