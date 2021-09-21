@@ -37,7 +37,7 @@
     SlyderE.my-5(indicadores="izquierda")(data-aos="slide-down") 
       .row
         .col-md-6.mb-4.mb-md-0
-          p Este tipo de investigación se realiza a través de encuestas, mediante la realización de focus group, aplica también para esta técnica el estudio de casos de la industria o análisis de fuentes secundarias para la construcción de conocimiento primario que servirá como inicio del proceso de una posible investigación concluyente. En esta investigación las variables del problema son analizadas con mayor grado de precisión.     
+          p Este tipo de investigación se realiza a través de encuestas, mediante la realización de #[i focus group], aplica también para esta técnica el estudio de casos de la industria o análisis de fuentes secundarias para la construcción de conocimiento primario que servirá como inicio del proceso de una posible investigación concluyente. En esta investigación las variables del problema son analizadas con mayor grado de precisión.     
         .col-md-6
           img.img-t.img-a(src='@/assets/ilustraciones/img19.png', alt='')  
       .row
@@ -53,7 +53,7 @@
       .row
         .col-md-6.mb-4.mb-md-0
           h5 Ventajas 
-          p #[b Por ejemplo:] mientras que para una investigación concluyente que busca a través de una encuesta ponderar precios, sitios de compra o marcas. Con una investigación exploratoria a través de una entrevista, focus group, observación o un estudio de etnografía, se pretende identificar las diferentes variables que influyen en la decisión de consumo como aspectos culturales, generacionales, preferencias, contraindicaciones, estilos de vida que puedan influenciar en el consumo.     
+          p #[b Por ejemplo:] mientras que para una investigación concluyente que busca a través de una encuesta ponderar precios, sitios de compra o marcas. Con una investigación exploratoria a través de una entrevista, #[i focus group], observación o un estudio de etnografía, se pretende identificar las diferentes variables que influyen en la decisión de consumo como aspectos culturales, generacionales, preferencias, contraindicaciones, estilos de vida que puedan influenciar en el consumo.     
         .col-md-6
           img.img-t.img-a(src='@/assets/ilustraciones/img21.png', alt='')                                                            
     h5(data-aos="fade-down") Investigación concluyente
@@ -91,13 +91,13 @@
     p.mt-5(data-aos="fade-down") Este método de investigación concluyente permite cuantificar las características de las variables, que dieron una estructura a la formulación de ese problema de estudio identificado mediante la investigación exploratoria. Para este tipo de investigación concluyente la encuesta es un instrumento eficaz para la recolección de datos cuantitativos. En este instrumento de recolección se pueden incluir datos a recoger como:
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="flip-down")       
-      .col-lg-3.my-3(data-aos="fade-right")
+      .col-lg-3.my-3.yoyo-1(data-aos="fade-right")
         img.img-t.img-a(src='@/assets/ilustraciones/img64.svg', alt='')
 
-      .col-lg-3.my-3(data-aos="fade-down")
+      .col-lg-3.my-3.yoyo-2(data-aos="fade-down")
         img.img-t.img-a(src='@/assets/ilustraciones/img65.svg', alt='') 
         
-      .col-lg-3.my-3(data-aos="fade-left")
+      .col-lg-3.my-3.yoyo-1(data-aos="fade-left")
         img.img-t.img-a(src='@/assets/ilustraciones/img66.svg', alt='')
 
     p.mt-5(data-aos="fade-down") A continuación se presenta la gráfica de diferencias entre la investigación exploratoria y la investigación concluyente.        
@@ -184,7 +184,7 @@
           td Puede ser cara.<br>Poca profundidad.
 
         tr
-          td.t-borde-right #[b Pseudocompra (Mystery shopper)]
+          td.t-borde-right #[b Pseudocompra #[i (Mystery shopper)]]
           td.t-borde-right Visitas anónimas de simulación de compra.
           td.t-borde-right Evaluación real.<br>Directa.
           td No generalizable.<br>Presión y evaluación.

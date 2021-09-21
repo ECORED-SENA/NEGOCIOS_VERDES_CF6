@@ -24,14 +24,14 @@
             img.img-t.img-a(src='@/assets/ilustraciones/img23.svg', alt='') 
           .col-lg-9
             h5 Encuesta personal 
-            p es un cuestionario, que dura máximo una hora, el proceso de recolección de la información se adquiere mediante el contacto directo entre un entrevistador con las personas seleccionadas, que son llamadas para ser encuestadas o entrevistadas.   
+            p Es un cuestionario, que dura máximo una hora, el proceso de recolección de la información se adquiere mediante el contacto directo entre un entrevistador con las personas seleccionadas, que son llamadas para ser encuestadas o entrevistadas.   
 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Encuesta por teléfono")
         .row.justify-content-center.align-items-start
           .col-lg-3
             img.img-t.img-a(src='@/assets/ilustraciones/img24.svg', alt='') 
           .col-lg-9
-            h5 Encuesta por teléfono 
+            h5 La encuesta por teléfono 
             p Su duración es más corta, dura máximo diez minutos, la encuesta se hace mediante contacto telefónico, entre un entrevistador y las personas o grupos seleccionados para tal fin.  
 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Encuestas mixtas")
@@ -47,11 +47,11 @@
           .col-lg-3
             img.img-t.img-a(src='@/assets/ilustraciones/img26.svg', alt='') 
           .col-lg-9
-            h5 A través de redes sociales 
+            h5 Encuestas a través de redes sociales 
             p las diferentes plataformas que usan los consumidores a diario, como las redes sociales facilitan el proceso de investigación. Estas plataformas ofrecen información de los compradores o clientes, como el perfil y tendencias en búsquedas. Además de la rapidez en la información, el bajo costo es una buena herramienta para obtener información actualizada en el proceso de investigación de mercados. (Dos Santos, 2017, p.95) 
 
     p.mt-5(data-aos="fade-down") La empresa decide el tipo de encuesta a usar o la posible combinación de métodos, dependiendo de los recursos disponibles, alcance de la población, equipos tecnológicos, costos del estudio y la ubicación geográfica de la población muestra. 
-    h5.mt-5(data-aos="fade-down") Cualidades de un buen entrevistador
+    h5.mt-5(data-aos="fade-down") Cualidades básicas de un buen entrevistador
     p(data-aos="fade-down") El proceso de selección de los entrevistados debe garantizar que el perfil diseñado garantice que el entrevistador contenga las siguientes actitudes y aptitudes (Prieto, 2013): 
 
     ol.lista-ol--cuadro.mt-5
@@ -68,7 +68,7 @@
       li(data-aos="fade-right")  
         .lista-ol--cuadro__vineta
           span c
-        |  Debe tener en cuenta que #[b no debe suponer] lo que piensa el encuestado.
+        |  Debe tener en cuenta que no debe suponer lo que piensa el encuestado.
       li(data-aos="fade-right")  
         .lista-ol--cuadro__vineta
           span d
@@ -133,7 +133,7 @@
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="flip-down")       
       .col-lg-8
-        .BorTit.mt-5(data-aos="fade-down") #[b Tabla 2] Técnicas utilizadas en la investigación exploratoria o cualitativa       
+        .BorTit.mt-5(data-aos="fade-down") #[b Tabla 2] Ventajas y desventajas de la observación      
         .tabla-b.color-acento-contenido.mt-3(data-aos="fade-down")
           table
             caption Nota. Ventajas y desventajas de la observación. Dos Santos (2017).

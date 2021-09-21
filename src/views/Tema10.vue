@@ -7,7 +7,7 @@
         span 10
       h1 Bases de datos
 
-    p(data-aos="fade-down") Una base de datos es aquella cantidad o conjunto que componen todos los datos informativos de una empresa que son organizados y almacenados dentro de un mismo contenido, para ser usada y vinculada, respondiendo a las diferentes necesidades de información de la empresa. En una base de datos se almacena gran cantidad de contenidos, una vez creada se puede permanentemente acceder a ella. La información almacenada puede actualizarse con la frecuencia requerida. La sumatoria de todos los datos o contenidos en una base de datos es lo que se conoce como información, lo que pretende es generar el conocimiento .
+    p(data-aos="fade-down") Una base de datos es aquella cantidad o conjunto que componen todos los datos informativos de una empresa que son organizados y almacenados dentro de un mismo contenido, para ser usada y vinculada, respondiendo a las diferentes necesidades de información de la empresa. En una base de datos se almacena gran cantidad de contenidos, una vez creada se puede permanentemente acceder a ella. La información almacenada puede actualizarse con la frecuencia requerida. La sumatoria de todos los datos o contenidos en una base de datos es lo que se conoce como información, lo que pretende es generar el conocimiento.
 
     img.img-t.img-a.mt-5(src='@/assets/ilustraciones/hr-before-h2.svg', alt='') 
     #t_10_1.titulo-segundo.mt-5(data-aos="slide-right")
@@ -66,7 +66,7 @@
     p.mt-5(data-aos="fade-down") A continuación se profundizará en el estudio de algunos de los software y bases de datos que se utilizan para la toma de información.
     p(data-aos="fade-down") Las empresas suelen utilizar software de servicio al cliente para permitir un soporte al cliente más rápido y de manera eficiente.
 
-    h4.mt-5(data-aos="fade-down") CRM (#[b Customer Relationship Management])
+    h4.mt-5(data-aos="fade-down") CRM (#[b #[i Customer Relationship Management]])
 
     p(data-aos="fade-down") Se debe visualizar el siguiente video y conocer qué es un CRM:
 
@@ -88,7 +88,7 @@
               .bloque-texto-a__texto.p-4
                 p <b>Recordar que</b>:<br>
 
-                  |Es necesario el diseño de actividades dirigidas a fomentar la vivencia y apropiación en todos los niveles de la cultura corporativa. Actuar siempre en función de la misión y valores institucionales; creando al interior de la empresa un modelo de sentido de pertenencia de parte de los colaboradores, con base en incentivos o reconocimientos permanentes; ya que el buen desempeño y los buenos comportamientos al interior de las organizaciones hay que reconocerlos .         
+                  |Es necesario el diseño de actividades dirigidas a fomentar la vivencia y apropiación en todos los niveles de la cultura corporativa. Actuar siempre en función de la misión y valores institucionales; creando al interior de la empresa un modelo de sentido de pertenencia de parte de los colaboradores, con base en incentivos o reconocimientos permanentes; ya que el buen desempeño y los buenos comportamientos al interior de las organizaciones hay que reconocerlos.         
             .col-lg-4.mb-4.mb-lg-0
               img.img-t.img-a(src='@/assets/ilustraciones/img53.svg', alt='')
 
@@ -123,7 +123,7 @@
             span Descargar
             i.fas.fa-file-download
 
-    h4.mt-5(data-aos="fade-down") RFDI (Radio Frequency Identification)
+    h4.mt-5(data-aos="fade-down") RFDI (#[i Radio Frequency Identification])
 
     .row.justify-content-center.align-items-center.my-5(data-aos="flip-down")       
       .col-lg-10.cajon.color-primario.p-4 
@@ -146,7 +146,7 @@
       .col-lg-5.mb-4(data-aos="slide-left") 
         p(data-aos="fade-down") Esta tecnología permite desde la recepción del producto realizar una trazabilidad o seguimiento a su recorrido, además brinda la posibilidad de localizar cualquier producto dentro de la cadena de suministro, brindando información sobre este. En lo referente a la trazabilidad, las etiquetas podrían tener gran aplicación, ya que pueden grabarse, con lo que se podría conocer el tiempo que el producto estuvo almacenado, en qué sitios, etc., optimizando así el manejo de los productos en las cadenas de suministro (Velasco, 2013). 
 
-    h4.mt-5(data-aos="fade-down") ECR (#[b Efficient Customer Response]) - Respuesta Eficiente al Consumidor.  
+    h4.mt-5(data-aos="fade-down") ECR (#[b #[i Efficient Customer Response]]) - Respuesta Eficiente al Consumidor.  
     p.mt-5(data-aos="fade-down") Este sistema:
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="fade-down")

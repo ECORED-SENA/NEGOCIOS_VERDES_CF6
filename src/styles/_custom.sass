@@ -208,17 +208,17 @@
 
 .yoyo
   animation-name: yoyo
-  animation-duration: 4.0s
+  animation-duration: 5.0s
   animation-iteration-count: infinite
   -o-animation-direction: alternate
 
 @keyframes yoyo
   0%
-    transform: translatey(0px)    
+    transform: translatex(0px)    
   50%
-    transform: translatey(-10px)
+    transform: translatex(-20px)
   100%
-    transform: translatey(0px)    
+    transform: translatex(0px)    
 
 .card-row-color-1    
   background-color: #ECEDCC
@@ -270,3 +270,32 @@
     transform: rotate(0deg)
     transform: translatey(0px)
     transform: translatex(0px)       
+
+.yoyo-1
+  animation-name: yoyo-1
+  animation-duration: 5.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes yoyo-1
+  0%
+    transform: translatey(0px)    
+  50%
+    transform: translatey(-5px)
+  100%
+    transform: translatey(0px)      
+
+.yoyo-2
+  animation-name: yoyo-2
+  animation-duration: 5.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes yoyo-2
+  0%
+    transform: translatey(-5px)    
+  50%
+    transform: translatey(0px)
+  100%
+    transform: translatey(-5px)      
+    

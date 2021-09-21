@@ -9,7 +9,7 @@
 
     p(data-aos="fade-down") En este momento del estudio la empresa realizó una alta inversión de tiempo y recursos. Se requiere entonces ejecutar el proceso de trabajo de campo, para lo cual debe tener presupuestados los costos de la fase asociados al entrenamiento, capacitación del personal y a las personas seleccionadas de supervisión. Es importante tener claro que en la fase de entrenamiento se asegura la aplicación de actitudes, normas, valores o principios del personal a cargo de recolectar la información. 
     p(data-aos="fade-down") Con un buen entrenamiento se puede garantizar todo lo anterior, a través de simulaciones de entrevistas con procesos de retroalimentación bien estructurados. 
-    p(data-aos="fade-down") Además, habrá momentos que surjan dudas o preguntas, por parte de la población seleccionada como muestra. Lo ideal es que el personal que realiza el trabajo de campo cuente con los conocimientos, la autonomía o empoderamiento necesarios para dar respuesta a estas inquietudes; esto se logra con un buen proceso de capacitación. La capacitación contribuye al desarrollo de los individuos, por tal razón se debe invertir fuerte en esta fase . 
+    p(data-aos="fade-down") Además, habrá momentos que surjan dudas o preguntas, por parte de la población seleccionada como muestra. Lo ideal es que el personal que realiza el trabajo de campo cuente con los conocimientos, la autonomía o empoderamiento necesarios para dar respuesta a estas inquietudes; esto se logra con un buen proceso de capacitación. La capacitación contribuye al desarrollo de los individuos, por tal razón se debe invertir fuerte en esta fase. 
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="flip-down")       
       .col-lg-10.cajon.color-primario.p-4 

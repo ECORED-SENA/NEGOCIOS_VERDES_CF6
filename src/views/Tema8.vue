@@ -7,8 +7,9 @@
         span 8
       h1 <i>Software</i> para estadística
 
-    p(data-aos="fade-down") En la investigación de mercados existe software o paquetes estadísticos que permiten almacenar, tabular, realizar análisis y sacar conclusiones, como es el caso del SPSS (statistical package for the social sciences), Stata, R o JMP. Algunos son gratuitos, para acceder a otros se debe pagar por el derecho al uso como el SPSS (statistical package for the social sciences), que traducido al español es paquete estadístico para ciencias sociales.
-    .row.justify-content-center.align-items-center.my-5     
+    p(data-aos="fade-down") En la investigación de mercados existe software o paquetes estadísticos que permiten almacenar, tabular, realizar análisis y sacar conclusiones, como es el caso del SPSS (#[i statistical package for the social sciences]), Stata, R o JMP. Algunos son gratuitos, para acceder a otros se debe pagar por el derecho al uso como el SPSS (#[i statistical package for the social sciences]), que traducido al español es paquete estadístico para ciencias sociales.
+    h5.mt-5(data-aos="fade-down") SPSS:
+    .row.justify-content-center.align-items-center.mb-5     
       .col-lg-10 
         .row.justify-content-center.align-items-center.my-5     
           .col-lg-5(data-aos="fade-right")  
