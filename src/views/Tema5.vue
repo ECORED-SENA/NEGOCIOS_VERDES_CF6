@@ -44,7 +44,7 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-md-8.bg-1.p-4(data-aos="slide-down")      
         .BorTit #[b Figura 2] Clasificación del error en investigación de mercados
-        img.img-t.img-a.mt-3(src='@/assets/ilustraciones/img41.svg', alt='')
+        img.img-t.img-a.mt-3.bg-color-img.p-2(src='@/assets/ilustraciones/img41.svg', alt='')
         figcaption.mt-3 Nota. Investigación de mercados. Tomado de Dos Santos (2017). 
 </template>
 

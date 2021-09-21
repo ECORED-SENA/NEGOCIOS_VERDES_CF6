@@ -139,9 +139,9 @@
                 p #[b Ejemplo]<br>Mediante una encuesta se ilustra un ejemplo de la aplicación del método de investigación concluyente,  para un estudio de mercado de productos de pastelería y repostería que busca ponderar las variables y objetos de estudios que inciden en las ventas e ingresos de este negocio como son: conocimiento y preferencias del consumidor, las frecuencias de visita, inversión, sitio de compra, horarios habituales de consumo y bebidas con las que usualmente acompaña estos productos.       
     .row.justify-content-center.align-items-center.mt-3(data-aos="flip-down")       
       .col-lg-4
-        a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo(:href="obtenerLink('/downloads/Anexo_1_ejemplo_de_encuesta.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo 1.] Ejemplo de encuesta. 
 
