@@ -69,10 +69,8 @@
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular La investigación de mercados consiste en el proceso de obtención de información y almacenamiento para posteriormente ser analizada dando respuestas y solucionando problemas referentes a la actividad del mercadeo. Actividad realizada con el propósito de ayudar al directivo del marketing a tomar decisiones que resuelvan sus metas de negocios.
+            h3.text-regular Una vez se tienen identificadas las variables de la investigación concluyente, cuando se tienen previamente identificados los cursos de acción, el gerente requiere información que le brinde la posibilidad de evaluar esos cursos de acción ponderando su respectivo nivel de incertidumbre y posteriormente seleccionar el mejor de ellos, el óptimo para la toma de decisiones. En esta oportunidad el problema de decisión se enfrenta a través del diseño y desarrollo de una investigación concluyente que cuantifique la investigación exploratoria (Plazas, 2011).
             i.fas.fa-quote-right
-          .bloque-texto-d__autor 
-            .h5.mb-0 American Marketing Associattion
         img.img-t.img-a.mt-5.yoyo(src='@/assets/ilustraciones/img63.svg', alt='')
 
     .row.justify-content-center(data-aos="flip-down")  
@@ -80,10 +78,9 @@
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular La investigación de mercados consiste en el proceso de obtención de información y almacenamiento para posteriormente ser analizada dando respuestas y solucionando problemas referentes a la actividad del mercadeo. Actividad realizada con el propósito de ayudar al directivo del marketing a tomar decisiones que resuelvan sus metas de negocios.
+            h3.text-regular Una vez se tienen identificadas las variables de la investigación concluyente, cuando se tienen previamente identificados los cursos de acción, el gerente requiere información que le brinde la posibilidad de evaluar esos cursos de acción ponderando su respectivo nivel de incertidumbre y posteriormente seleccionar el mejor de ellos, el óptimo para la toma de decisiones. En esta oportunidad el problema de decisión se enfrenta a través del diseño y desarrollo de una investigación concluyente que cuantifique la investigación exploratoria (Plazas, 2011).
             i.fas.fa-quote-right
-          .bloque-texto-d__autor 
-            .h5.mb-0 American Marketing Associattion
+            
       .col-lg-6.d-lg-none
         p.mt-5 El hecho fundamental que se llevó a cabo en una investigación exploratoria o una concluyente, lo constituye el método de selección de los elementos que aportaron los datos o la información necesaria en el estudio de mercado.
         p Las técnicas de recolección, el tipo de preguntas, los formatos de captura de datos y de información, o los procedimientos de análisis de resultados no son propios de un tipo particular de investigación, no están asociados a una investigación  exploratoria o a una concluyente, por ende, no definen, no delimitan, no establecen el tipo de investigación que se efectuó o se efectuará. (Plazas, 2011)
