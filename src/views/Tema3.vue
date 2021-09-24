@@ -62,7 +62,7 @@
     .row.justify-content-center.mt-5(data-aos="flip-down")  
       .col-lg-6.d-none.d-lg-block(data-aos="slide-right") 
         img.img-t.img-a(src='@/assets/ilustraciones/img62.svg', alt='')
-        p(data-aos="fade-down").m-top El hecho fundamental que se llevó a cabo en una investigación exploratoria o una concluyente, lo constituye el método de selección de los elementos que aportaron los datos o la información necesaria en el estudio de mercado.
+        p(data-aos="fade-down").m-top El hecho fundamental que se llevó a cabo en una investigación exploratoria o una concluyente, lo constituye el #[b método de selección de los elementos] que aportaron los datos o la información necesaria en el estudio de mercado.
 
         p(data-aos="fade-down")  Las técnicas de recolección, el tipo de preguntas, los formatos de captura de datos y de información, o los procedimientos de análisis de resultados no son propios de un tipo particular de investigación, no están asociados a una investigación  exploratoria o a una concluyente, por ende, no definen, no delimitan, no establecen el tipo de investigación que se efectuó o se efectuará. (Plazas, 2011). 
       .col-lg-6.d-none.d-lg-block(data-aos="slide-right") 
@@ -82,7 +82,7 @@
             i.fas.fa-quote-right
             
       .col-lg-6.d-lg-none
-        p.mt-5 El hecho fundamental que se llevó a cabo en una investigación exploratoria o una concluyente, lo constituye el método de selección de los elementos que aportaron los datos o la información necesaria en el estudio de mercado.
+        p.mt-5 El hecho fundamental que se llevó a cabo en una investigación exploratoria o una concluyente, lo constituye el #[b método de selección de los elementos] que aportaron los datos o la información necesaria en el estudio de mercado.
         p Las técnicas de recolección, el tipo de preguntas, los formatos de captura de datos y de información, o los procedimientos de análisis de resultados no son propios de un tipo particular de investigación, no están asociados a una investigación  exploratoria o a una concluyente, por ende, no definen, no delimitan, no establecen el tipo de investigación que se efectuó o se efectuará. (Plazas, 2011)
     
     p.mt-5(data-aos="fade-down") Este método de investigación concluyente permite cuantificar las características de las variables, que dieron una estructura a la formulación de ese problema de estudio identificado mediante la investigación exploratoria. Para este tipo de investigación concluyente la encuesta es un instrumento eficaz para la recolección de datos cuantitativos. En este instrumento de recolección se pueden incluir datos a recoger como:
@@ -119,7 +119,8 @@
         p.mb-0 Experimentos
       .col-lg-3.card-row-color-2.p-5
         img.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img69.svg', alt='')
-        h5.my-3(data-aos="fade-down") Cualitativos        
+        h5.my-3(data-aos="fade-down") Cualitativos 
+        p.mb-0 Entrevistas
         p.mb-0 #[i Focus group]
         p.mb-0 Observación
         p.mb-0 T. Proyectivas
