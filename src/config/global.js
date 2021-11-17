@@ -175,11 +175,6 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
-      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -365,25 +360,25 @@ export default {
       {
         nombre: 'José Alberto Martínez Gómez',
         cargo: 'Experto temático',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima.',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Paola Moya Peralta',
         cargo: 'Diseñadora instruccional',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital.',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
         cargo: 'Revisora metodológica y pedagógica',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital.',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',
         cargo: 'Diseñador y evaluador instruccional',
         centro:
-          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital. ',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
